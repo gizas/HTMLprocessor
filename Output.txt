@@ -1,0 +1,75 @@
+Link: http://www.addthis.com/
+
+Version: HTML 5
+
+Total Comments: 4
+
+External Scripts: 1
+Scripts inside HTML: 15
+Scripts inside Head: 4
+
+Total tags: 168
+Distinct tags:  23
+
+HTML 5 Total tags: 8
+HTML 5 Distinct tags: 4
+Html5 tagname:Footer
+Html5 tag appearance:1
+
+Html5 tagname:Header
+Html5 tag appearance:1
+
+Html5 tagname:Nav
+Html5 tag appearance:2
+
+Html5 tagname:Section
+Html5 tag appearance:4
+
+Styles inside HTML: 0
+total style tags: 0
+total style atts: 0
+external css files: 5
+CSSinside head: TRUE
+Styles(tags and atts) Inside Body: 0
+External Css Inside Body: 0
+
+total attributes 197
+Distinct Attributes: 16
+total attribute Values 193
+Distinct Attribute Values: 139
+
+DOM average depth: 5
+DOM max depth: 9
+
+Class Average Length: 9.817073
+ID Average Length: 5.6666665
+
+JApplets inside html: 0
+Flash Content inside html: 0
+
+Nested tables: 0
+
+Total characters: 13665
+HTML characters: 6266
+Total Script characters: 2942
+Total Css characters: 598
+Total Comment characters: 202
+Total Whitespace characters: 2275
+Total text Charachters: 1382
+
+     Halstead Complexity Measures
+
+Vocabulary= 178
+Length= 558
+Volume= 4171.4592544792495
+
+     Halstead Complexity Measures <<HTml 5 tags>>
+
+Vocabulary= 159
+Length= 406
+Volume= 2969.0304798454486
+
+     PAGE RANKING
+
+(lower is better) World Ranking : null
+(higher is better) Google Page rank: null
